@@ -1,0 +1,8 @@
+• Python 3.12 — primary programming language
+• VS Code — local IDE for development
+• Kaggle Notebooks — cloud GPU environment for training
+• pandas, numpy — data loading and manipulation
+• matplotlib, seaborn — data visualization
+• scikit-learn — preprocessing, cross-validation, Logistic Regression
+• LightGBM — gradient boosting classifier (final model)
+• SHAP — post-hoc model explainability
